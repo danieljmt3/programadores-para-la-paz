@@ -1,0 +1,23 @@
+1. Verificar la ruta actual en el sistema de archivos
+pwd
+
+2. Listar directorios para ubicarnos en el espacio de trabajo
+ls
+
+3. Crear el directorio de la semana 2
+mkdir semana2
+
+4. Acceder a la carpeta recién creada
+cd semana2
+
+5. Inicializar el repositorio Git local en esta carpeta para el control de versiones
+git init
+
+6. Crear el archivo de preguntas agregando el encabezado directamente con 'echo'
+echo "# Cuestionario Semana 2" > preguntas-semana2.txt
+
+7. Crear el archivo de reflexión con su respectivo título inicial
+echo "# Reflexión sobre Ciudadanía y Herramientas Técnicas" > reflexion-semana2.txt
+
+8. Crear este registro de comandos ejecutados en la terminal
+echo "# Historial de comandos utilizados en la actividad" > comandos-terminal.txt
