@@ -1,0 +1,9 @@
+Algoritmo para la Difusión Responsable de Información
+
+1-Recepción del contenido: Identificar la información, enlace o cadena de texto que se desea compartir en el entorno virtual.
+2-Auditoría del emisor: Rastrear el autor o el medio de comunicación original que publica el contenido para evaluar su reputación.
+3-Análisis de metadatos: Verificar la fecha de publicación, las imágenes adjuntas y el contexto geográfico para descartar que sea una noticia vieja sacada de contexto.
+4-Validación de evidencias: Examinar si el texto incluye citas de expertos, documentos oficiales, estudios científicos o enlaces verificables que sostengan sus afirmaciones.
+5-Contraste multifuente: Buscar el mismo hecho en al menos dos portales de información independientes o agencias de verificación de datos (fact-checking).
+6-Filtro de sesgo e intención: Evaluar si el contenido usa lenguaje sensacionalista o busca generar odio, miedo o polarización; en caso afirmativo, abortar el proceso inmediatamente.
+7-Ejecución del aporte: Compartir el contenido únicamente si superó de forma positiva todos los filtros anteriores; de lo contrario, eliminarlo o alertar a la comunidad sobre su falsedad.
