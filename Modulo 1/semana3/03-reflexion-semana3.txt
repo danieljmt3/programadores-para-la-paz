@@ -1,0 +1,14 @@
+Mantener un registro de cambios con Git
+es fundamental porque dota a cualquier proyecto
+de software de un historial inmutable, ordenado y 
+completamente transparente. En el desarrollo moderno, 
+esto funciona como una máquina del tiempo que permite rastrear
+qué se modificó, quién lo hizo y por qué, facilitando la 
+detección rápida de errores y la reversión a estados estables si algo falla. 
+Además, esta trazabilidad es el motor que hace posible el trabajo 
+colaborativo; sin Git, coordinar a múltiples programadores en un mismo código 
+resultaría en un caos de archivos duplicados y pérdidas de información. 
+El uso de herramientas de control de versiones también aporta una enorme seguridad 
+al permitir experimentar con nuevas funcionalidades en ramas aisladas sin poner en riesgo 
+la aplicación principal. En conclusión, no se trata solo de guardar archivos, sino de garantizar 
+la estabilidad técnica, la auditoría del proyecto y la continuidad del software a largo plazo.

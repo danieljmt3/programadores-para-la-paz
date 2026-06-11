@@ -1,0 +1,8 @@
+1. Repositorio
+Es una estructura de almacenamiento o carpeta virtual gestionada por Git donde se centralizan absolutamente todos los archivos, códigos fuente y recursos multimedia de un desarrollo. Su verdadero valor radica en que no solo guarda la versión actual del proyecto, sino que resguarda una base de datos interna con el historial cronológico y completo de cada modificación realizada en el tiempo. Esto le permite a cualquier desarrollador auditar el pasado del código, revertir errores y colaborar de forma asincrónica con otros programadores en un entorno limpio y ordenado.
+
+2. Commit
+Es una confirmación o instantánea inmutable que congela el estado exacto de los archivos del proyecto en un momento específico de la línea de tiempo. Funciona de manera similar a "guardar la partida" en un videojuego: empaqueta los cambios que previamente indexamos en el área de preparación y los asienta de permanentemente en el historial local del repositorio. Cada commit va acompañado obligatoriamente de un mensaje descriptivo y un identificador único, lo que garantiza la trazabilidad técnica y saber con precisión qué problema se resolvió en cada etapa.
+
+3. Push
+Es la acción de comando encargada de sincronizar el progreso técnico al enviar todas las confirmaciones locales (commits) acumuladas en la computadora hacia un servidor remoto como GitHub. Este comando actúa como un puente de comunicación que actualiza el repositorio en la nube, permitiendo que el código pase de un entorno de trabajo individual a uno visible y compartido. Gracias al push, el resto del equipo de desarrollo puede visualizar las últimas soluciones implementadas, descargar las actualizaciones y mantener el proyecto completamente unificado.
