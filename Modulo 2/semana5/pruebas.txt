@@ -1,0 +1,3 @@
+1. http://localhost:3000 -> El servidor procesa la ruta raíz (/) y responde en el navegador desplegando el texto 'Servidor activo'.
+2. http://localhost:3000/saludo -> El servidor procesa la ruta estática (/saludo) y devuelve como respuesta en pantalla 'Hola comunidad'.
+3. http://localhost:3000/mensaje/juan -> El servidor procesa la ruta dinámica (/mensaje/:nombre), lee el parámetro de la URL (que en este caso toma el valor 'juan') y responde de forma personalizada diciendo 'Hola juan'.
