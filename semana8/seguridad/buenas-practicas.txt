@@ -1,3 +1,3 @@
-1. Proteger las contraseñas utilizando claves fuertes y únicas.
-2. No compartir credenciales de acceso con otras personas.
-3. Mantener el sistema operativo y las aplicaciones siempre actualizadas.
+1. Configurar permisos de acceso según el rol de cada usuario.
+2. Supervisar la actividad del sistema para detectar comportamientos inusuales.
+3. Instalar únicamente software proveniente de fuentes oficiales y confiables.
