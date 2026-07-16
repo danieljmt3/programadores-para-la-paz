@@ -1,0 +1,5 @@
+1. Un usuario ingresa a la plataforma y registra una nueva iniciativa comunitaria.
+2. La información de la iniciativa se almacena en la base de datos para su consulta.
+3. Otros usuarios pueden visualizar las iniciativas disponibles y brindar su apoyo.
+4. El sistema actualiza automáticamente la cantidad de apoyos recibidos por cada iniciativa.
+5. Cuando la iniciativa alcanza los apoyos necesarios, se genera un documento en formato PDF con la información recopilada para su presentación ante la entidad correspondiente.

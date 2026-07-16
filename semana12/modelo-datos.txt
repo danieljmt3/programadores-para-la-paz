@@ -1,0 +1,23 @@
+Entidad: Iniciativa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+
+Propósito:
+Guardar la información de cada iniciativa propuesta por la comunidad para facilitar su consulta y seguimiento.
+
+
+Entidad: Participacion
+
+Campos principales:
+- id
+- iniciativa_id
+- alias_usuario
+- fecha_participacion
+
+Propósito:
+Registrar cada apoyo recibido por una iniciativa y llevar el control de la participación sin almacenar información personal innecesaria.
