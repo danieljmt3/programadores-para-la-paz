@@ -1,0 +1,9 @@
+Las dos primeras tareas que desarrollaría serían la aprobación de reportes y la consulta del estado de las solicitudes, porque representan las funciones principales para que la plataforma sea útil desde el inicio.
+
+Estas tareas son prioritarias porque permiten administrar la información correctamente y ofrecer retroalimentación a los usuarios sobre sus reportes.
+
+Para mí, una tarea está terminada cuando:
+
+- Cumple con el objetivo para el que fue desarrollada.
+- Fue revisada y funciona sin errores importantes.
+- Quedó documentada y registrada en el repositorio mediante Git.

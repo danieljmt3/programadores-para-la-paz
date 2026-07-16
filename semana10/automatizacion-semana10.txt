@@ -1,0 +1,8 @@
+Evento que activa el flujo:
+Cuando un reporte cambia de estado a "Pendiente de revisión".
+
+Mensaje enviado a Telegram:
+"Se registró una nueva actividad en la plataforma. Ingrese al sistema para revisarla."
+
+Información que no debe enviarse:
+Datos personales de los usuarios, documentos de identidad, direcciones, números telefónicos, correos electrónicos, contraseñas ni información confidencial.
